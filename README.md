@@ -1,5 +1,6 @@
 # STEPin MiniProject_Template Sample
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cb92a5106596495d81df7e8def8e4475)](https://app.codacy.com/gh/stepin104609/LSB-based-Steganography1?utm_source=github.com&utm_medium=referral&utm_content=stepin104609/LSB-based-Steganography1&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=stepin654321/MiniProject_Template&utm_campaign=Badge_Grade_Dashboard)
 
 
